@@ -29,6 +29,6 @@
 
 ## 문제 리스트
 
-- [2021 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/courses/30/lessons/72411)
+- [메뉴리뉴얼(2021 KAKAO BLIND RECRUITMENT)](https://programmers.co.kr/learn/courses/30/lessons/72411)
 
 
