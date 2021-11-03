@@ -11,7 +11,7 @@
 자바스크립트를 이용한 알고리즘 문제풀이 스터디입니다.
 
 
-### Collaborator
+## Collaborator
 
 <p>
 <a href="https://github.com/Serzhul">
@@ -27,7 +27,7 @@
 
 
 
-#### 문제 리스트
+## 문제 리스트
 
 - [2021 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/courses/30/lessons/72411)
 
