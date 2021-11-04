@@ -1,4 +1,4 @@
-# Algoritm Study With JS
+# Algorithm Study With JS
 
 > Since 2021.11.03
 
