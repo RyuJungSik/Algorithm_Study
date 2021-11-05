@@ -4,7 +4,6 @@ function solution(msg) {
     for(let i=1;i<27;i++){
         dict.set(String.fromCharCode(64+i),i)
     }
-    
     for(let i=0;i<msg.length;i++){
         let tmp=msg[i]
         while(1){
@@ -21,6 +20,5 @@ function solution(msg) {
             tmp+=msg[++i]
         }
     }
-    
     return answer;
 }
